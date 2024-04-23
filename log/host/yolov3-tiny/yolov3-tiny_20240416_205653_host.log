@@ -1,0 +1,6 @@
+/data/dog.jpg: Predicted in 45.853764 seconds.
+dog: 57%
+car: 62%
+car: 52%
+truck: 56%
+bicycle: 59%

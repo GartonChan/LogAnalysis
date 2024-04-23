@@ -1,0 +1,24 @@
+To create_enclave with payload: /prog/enclave/darknet/darknet
+enclave created: eid = 1
+filename len = 16
+host get filename: /cfg/alexnet.cfg
+filename len = 16
+filename: /cfg/alexnet.cfg
+filename len = 16
+host get filename: /alexnet.weights
+filename len = 16
+filename: /alexnet.weights
+filename len = 19
+host get filename: cfg/imagenet1k.data
+filename len = 19
+filename: cfg/imagenet1k.data
+filename len = 29
+host get filename: data/imagenet.shortnames.list
+filename len = 29
+filename: data/imagenet.shortnames.list
+filename len = 13
+host get filename: /data/dog.jpg
+filename len = 13
+filename: /data/dog.jpg
+[E1T0]msg: 165399
+Enclave 1 thread 0 exited, interrupt count: 0
